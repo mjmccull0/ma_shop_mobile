@@ -16,6 +16,13 @@ The project is primarily structured into views, components, services and utiliti
 
 There are two views, a home view and a category view.  While both views leverage the products API to present a product list—the category view enables filtering of products based on categories.  After navigating to a category's sub-categories it's possible to go back to the parent category using the the back button contained in the view or using the phones hardware button (native feature).
 
+![](https://github.com/mjmccull0/ma_shop_mobile/blob/master/screenshots/product_list.png)
+
+![](https://github.com/mjmccull0/ma_shop_mobile/blob/master/screenshots/category_list.png)
+
+![](https://github.com/mjmccull0/ma_shop_mobile/blob/master/screenshots/category_product_list.png)
+
+
 Material design elements and themes are used for styling the application.  The default dark theme is the basis for the theme, further customization of the theme can be configured in App.js.
 
 # Strengths and Limitations
