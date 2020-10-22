@@ -34,3 +34,5 @@ The limitations of this project stem from the project being a code sample.  Some
  * add ability to customize the categories shown
  * styling for larger screens
  * handle HTML entities
+
+The [apk](https://github.com/mjmccull0/ma_shop_mobile/blob/master/dist/mobile-dev-assessment.apk) for available in the dist directory.
